@@ -1,12 +1,11 @@
-<div align="center">
-## Hi there 👋, I'm Caio Reis 👨🏽‍💻
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caio+Reis;I'm+20+years+old;I'm+from+Brazil;I+Graduating+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
   <a href="https://github.com/iCaioReis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iCaioReis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCaioReis&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
   
 <div align="center">
   <a href="contato.caioreis3186@gmail.com" ><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" Color=white" target="_blank"></a>
